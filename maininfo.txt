@@ -1,0 +1,9 @@
+Welcome to the CSC1026 Tutorial Website. This webpage is designed to provide Stage 1
+students with additional information regarding the Web Design and Development Module.
+All pages are accessible via the navigation bar on the left. All course material and 
+additional information is available in section "Tutorials".
+
+To test yourself, select "Tests". All results are saved and you can compare how you 
+improved over time. 
+
+Exam dates,deadlines and module leader contacts are available in "Information". 
